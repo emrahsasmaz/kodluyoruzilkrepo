@@ -33,3 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Patika Account
 
 [Patika.dev](https://app.patika.dev/emrahsasmaz)
+
